@@ -1,16 +1,14 @@
-## Hi there 👋
+## 💻 Java-разработчик с опытом проектирования и разработки RESTful-сервисов, а также различных интеграционных решений
 
-<!--
-**bchrvD/bchrvD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Специализируюсь на создании надёжных, масштабируемых и легко сопровождаемых приложений.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Контакты
+- **Telegram:** [@bchrvD](https://t.me/bchrvD)
+- **Email:** [dmitiyBocharov4@yandex.ru](mailto:dmitiyBocharov4@yandex.ru)
+
+
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
